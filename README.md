@@ -32,7 +32,7 @@ and monthly sales trends to drive business decisions.
    while Furniture has lowest profit (18K) despite high sales
 
 ## Dashboard Preview
-![Dashboard](dashboard_full.png)
+![Dashboard](Dashboard_analysis_full.png)
 
 ## How to Run
 1. Clone this repository
